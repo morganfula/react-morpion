@@ -51,3 +51,9 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+
+button {
+  width: 120px;
+  height: 25px;
+  border-radius: 0px;
+}
